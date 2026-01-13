@@ -1,5 +1,4 @@
-OpenAI
 streamlit
+openai
 python-dotenv
-os
 fpdf

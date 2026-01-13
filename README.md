@@ -1,11 +1,14 @@
 # 🎓 AI Fitness & Diet Planner
 
+[![Streamlit App]
+**🔴 Live Demo:** [Click here to try the app!](https://ai-fitness-planner-jes.streamlit.app/)
+
 A personalized, budget-friendly workout and diet planner powered by Llama 3 (via Groq) and built with Streamlit. This application helps to generate custom fitness plans that respect their time, limited equipment, and grocery budget.
 
 ## 🚀 Features
 
 * **Personalized Routine:** Generates specific workout schedules based on age, gender, stats, and goals (Weight Loss, Muscle Gain, etc.).
-* **Budget-Smart Grocery Lists:** Creates a consolidated weekly shopping list tailored to student budgets (Low, Moderate, Flexible) and local currency.
+* **Budget-Smart Grocery Lists:** Creates a consolidated weekly shopping list tailored to budgets (Low, Moderate, Flexible) and local currency.
 * **Dynamic Calorie Math:** Automatically calculates maintenance calories and adjusts them based on user targets (e.g., "Lose 0.5kg/week").
 * **"Ask the Coach" Chat:** An interactive AI chat feature allows users to ask follow-up questions about their plan (e.g., "What can I substitute for tofu?" or "How do I do a plank?").
 * **PDF Export:** One-click download of the full plan and grocery list as a formatted PDF.
@@ -17,7 +20,9 @@ A personalized, budget-friendly workout and diet planner powered by Llama 3 (via
 * **PDF Generation:** FPDF
 * **Language:** Python 3.9+
 
-## 📦 Installation
+## 📦 Installation (Run Locally)
+
+If you want to run this code on your own machine instead of the cloud:
 
 1.  **Clone the repository:**
     ```bash

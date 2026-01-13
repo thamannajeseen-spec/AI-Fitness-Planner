@@ -1,0 +1,5 @@
+OpenAI
+streamlit
+python-dotenv
+os
+fpdf

@@ -18,7 +18,7 @@ client = OpenAI(
     base_url="https://api.groq.com/openai/v1"
 )
 
-model_name = "llama3-70b-8192"
+model_name = "openai/gpt-oss-120b"
 
 #PDF for fitness plan and shoping list--
 def create_pdf(plan_text, shopping_list):
